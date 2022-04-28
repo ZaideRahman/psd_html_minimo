@@ -96,7 +96,7 @@ header{
 .p_content{}
 .c_light{
 	font-family: 'Ubuntu', sans-serif;
-	font-size: 16px;
+	font-size: 14px;
 	font-weight: 300;
 	color: #b4ad9e;
 	text-transform: uppercase;
@@ -104,7 +104,7 @@ header{
 .c_h1{
 	font-family: 'Playfair Display', serif;
 	font-size: 30px;
-	font-weight: 400px;
+	font-weight: 400;
 }
 .c_text{
 	margin: 0;
