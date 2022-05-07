@@ -170,12 +170,12 @@ header{
 	position: relative;
 }
 .s_form input{
-	padding-left: 15px;
-	padding-right: 5px;
+	padding-left: 5px;
+	padding-right: 45px;
 	font-family: 'Playfair Display', serif;
     font-size: 14px;
     color: #626262;
-    width: 380px;
+    width: 345px;
     height: 45px;
     border: none;
     border-bottom: 1px solid #000000;
