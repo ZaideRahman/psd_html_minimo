@@ -47,7 +47,7 @@ header{
 	float: left;
 }
 .menu ul li a{
-	margin: 0 50px;
+	margin: 0 100px;
 	padding: 4px 1px 2px;
 	display: inline-block;
 	color: #626262;
@@ -56,7 +56,7 @@ header{
 	border-bottom: 1px solid transparent;
 	transition: .5s;
 }
-.menu ul li :last-child a{
+.menu ul li a:last-child{
 	margin-right: 0;
 }
 .menu ul li a:hover {
@@ -198,7 +198,6 @@ header{
 
 }	
 .s_form button img{}
-.
 
 
 
@@ -285,15 +284,14 @@ footer{
 	color: #000000;
 
 }
-.f_icon ul li a{
+.f_icon_ima ul li a{
 	margin: 0 30px;
-	/*padding: 4px 1px 2px;*/
 	display: inline-block;
 	color: #626262;
 	text-decoration: none;
 	text-transform: uppercase;
 }
-.f_icon ul li a:last-child{
+.f_icon_ima ul li a:last-child{
 	margin-right: 0;
 }
 
